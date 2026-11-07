@@ -1,1 +1,1 @@
-print “heda”
+heda
